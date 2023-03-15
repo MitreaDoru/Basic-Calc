@@ -1,20 +1,23 @@
 .action {
-  width: 50px;
+  width: 80px;
   height: 25px;
   background-color: aqua;
   border-radius: 5px;
+  font-size: 20px;
 }
 
 .value {
   font-size: 15px;
-  width: 20px;
+  width: 30px;
+  height: 30px;
   background-color: bisque;
   border-radius: 5px;
   color: brown;
 }
 .equal,
 .operators {
-  width: 20px;
+  width: 30px;
+  height: 30px;
   border-radius: 5px;
   background-color: aqua;
   color: black;
