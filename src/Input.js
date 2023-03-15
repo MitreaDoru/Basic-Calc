@@ -1,7 +1,9 @@
+import styled from './Input.module.css'
+
 const Input = ({ placeholder }) => {
     return <div>
 
-        <input placeholder={placeholder}></input>
+        <input className={styled.input} placeholder={placeholder}></input>
     </div>
 }
 

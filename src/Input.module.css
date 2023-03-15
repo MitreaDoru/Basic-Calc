@@ -1,0 +1,12 @@
+.input {
+  width: 300px;
+  height: 40px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+}
+input {
+  font-size: 35px;
+  color: black;
+  font-weight: 600;
+}
